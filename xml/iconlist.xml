@@ -1,0 +1,163 @@
+
+<ICONLIST>
+<icon>
+<NAME>men</NAME>
+<ID>001</ID>
+<TAGS>#living, #human, #mann, #gender</TAGS>
+<CATEGORY>living things</CATEGORY>
+<SUBCATEGORY>human</SUBCATEGORY>
+<SOLUTION>16x16, 32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>women</NAME>
+<ID>002</ID>
+<TAGS>#living, #human, #frau, #gender</TAGS>
+<CATEGORY>living things</CATEGORY>
+<SUBCATEGORY>human</SUBCATEGORY>
+<SOLUTION>16x16, 32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>cat</NAME>
+<ID>003</ID>
+<TAGS>#animal, #cat, #sweet, #miau</TAGS>
+<CATEGORY>living things</CATEGORY>
+<SUBCATEGORY>animals</SUBCATEGORY>
+<SOLUTION>16x16, 32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>dog</NAME>
+<ID>004</ID>
+<TAGS>+animal, #dog, #wuff #bite</TAGS>
+<CATEGORY>living things</CATEGORY>
+<SUBCATEGORY>animals</SUBCATEGORY>
+<SOLUTION>16x16, 32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>bird</NAME>
+<ID>005</ID>
+<TAGS>#bird, #fly #colorful, #air</TAGS>
+<CATEGORY>living things</CATEGORY>
+<SUBCATEGORY>animals</SUBCATEGORY>
+<SOLUTION>16x16, 32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>rat</NAME>
+<ID>006</ID>
+<TAGS>##animal, #rat, #ugly, #dirty</TAGS>
+<CATEGORY>living things</CATEGORY>
+<SUBCATEGORY>animals</SUBCATEGORY>
+<SOLUTION>16x16, 32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>house</NAME>
+<ID>007</ID>
+<TAGS>#room, #door, #house, #camper</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>big</SUBCATEGORY>
+<SOLUTION>64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>shoes</NAME>
+<ID>008</ID>
+<TAGS>#boots, #shopping, #new, #feets</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>small</SUBCATEGORY>
+<SOLUTION>64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>pants</NAME>
+<ID>009</ID>
+<TAGS>#clothers, #shopping, #new, #blue</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>small</SUBCATEGORY>
+<SOLUTION>64x64, 128x128</SOLUTION>
+<SVGVERSION>no</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>pencil</NAME>
+<ID>010</ID>
+<TAGS>#art, #draw, #rainbow, #paper</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>small</SUBCATEGORY>
+<SOLUTION>64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>chair</NAME>
+<ID>011</ID>
+<TAGS>#relax, #sit, #wood, #stuhl</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>small</SUBCATEGORY>
+<SOLUTION>64x64, 128x128</SOLUTION>
+<SVGVERSION>yes</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>desk</NAME>
+<ID>012</ID>
+<TAGS>#useful, #new, #wood, #food</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>small</SUBCATEGORY>
+<SOLUTION>32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>no</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>computer</NAME>
+<ID>013</ID>
+<TAGS>#technik, #internet, #monitor, #gaming</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>small</SUBCATEGORY>
+<SOLUTION>32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>no</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>airplane</NAME>
+<ID>014</ID>
+<TAGS>#fly, #holiday, #airplane, #air</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>big</SUBCATEGORY>
+<SOLUTION>32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>no</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>moon</NAME>
+<ID>015</ID>
+<TAGS>#space, #faraway, #earth, #spaceship</TAGS>
+<CATEGORY>things</CATEGORY>
+<SUBCATEGORY>big</SUBCATEGORY>
+<SOLUTION>32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>no</SVGVERSION>
+</icon>
+
+<icon>
+<NAME>human giant</NAME>
+<ID>016</ID>
+<TAGS>#big, #giant, #long, #beans</TAGS>
+<CATEGORY>living things</CATEGORY>
+<SUBCATEGORY>human</SUBCATEGORY>
+<SOLUTION>32x32, 64x64, 128x128</SOLUTION>
+<SVGVERSION>no</SVGVERSION>
+</icon>
+
+</ICONLIST>
